@@ -9,7 +9,7 @@ Pas 1: Obre el Visor d'esdeveniments
                 <img src="Captura de pantalla 2024-10-10 110106.png" alt="Clic en Visions personalitzades"  />
                 Pas 3: Defineix els criteris de filtratge i al aceptar, es desa la vista personalitzada
                 <img src="Captura de pantalla 2024-10-10 110140.png" alt="Definir criteris de filtratge" />   
-               Pas 1: Obrir el Programador de tasques</h3>
+               Pas 1: Obrir el Programador de tasques
                 <img src="Captura de pantalla 2024-10-10 110207.png" alt="Obrir el Programador de tasques" height="960" width="600" />
                 Pas 2: Fer clic a "Crear tasca"
                 <img src="Captura de pantalla 2024-10-10 110216.png" alt="Crear tasca" height="960" width="600"/>
