@@ -5,23 +5,12 @@
 ## 1. Crear una vista personalitzada
 Pas 1: Obre el Visor d'esdeveniments
                 <img src="Captura de pantalla 2024-10-10 110043.png" alt="Obrir el Visor d'esdeveniments"/>
-            </li>
-            <li>
-                <h3>Pas 2: Fes clic en Visions personalitzades i crea una nova vista personalitzada</h3>
-                <img src="Captura de pantalla 2024-10-10 110106.png" alt="Clic en Visions personalitzades" height="960" width="600" />
-            </li>
-            <li>
-                <h3>Pas 3: Defineix els criteris de filtratge i al aceptar, es desa la vista personalitzada</h3>
+                Pas 2: Fes clic en Visions personalitzades i crea una nova vista personalitzada
+                <img src="Captura de pantalla 2024-10-10 110106.png" alt="Clic en Visions personalitzades"  />
+                Pas 3: Defineix els criteris de filtratge i al aceptar, es desa la vista personalitzada
                 <img src="Captura de pantalla 2024-10-10 110140.png" alt="Definir criteris de filtratge" height="960" width="600" />
-            </li>
-        </ol>
-    </div>
-
-    <div class="section">
-        <h2>2. Crear una tasca</h2>
-        <ol>
-            <li>
-                <h3>Pas 1: Obrir el Programador de tasques</h3>
+   
+               Pas 1: Obrir el Programador de tasques</h3>
                 <img src="Captura de pantalla 2024-10-10 110207.png" alt="Obrir el Programador de tasques" height="960" width="600" />
             </li>
             <li>
