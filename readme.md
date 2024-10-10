@@ -21,9 +21,7 @@ Pas 1: Obre el Visor d'esdeveniments
                Pas 2: Confirma l'exportació i seleccionar la ubicació de desament on vulgis (en el nostre cas ho vam guardar en Descarges)
                 <img src="image.png" alt="Seleccionar ubicació de desament" height="960" width="600"/>
           4. Importar la vista personalitzada des d'una altra màquina virtual (MV)</h2>
-        <ol>
-            <li>
-                <h3>Pas 1: Fer clic a "Importar vista"</h3>
+      Pas 1: Fer clic a "Importar vista"
                 <img src="Captura de pantalla 2024-10-10 110928.png" alt="Importar vista" height="960" width="600"/>
             </li>
             <li>
