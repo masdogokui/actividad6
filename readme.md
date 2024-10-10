@@ -1,13 +1,10 @@
+# Guia per a la Gestió d'Esdeveniments a Windows
 
 
-    <h1>Guia per a la Gestió d'Esdeveniments a Windows</h1>
 
-    <div class="section">
-        <h2>1. Crear una vista personalitzada</h2>
-        <ol>
-            <li>
-                <h3>Pas 1: Obre el Visor d'esdeveniments</h3>
-                <img src="Captura de pantalla 2024-10-10 110043.png" alt="Obrir el Visor d'esdeveniments" height="960" width="600" />
+## 1. Crear una vista personalitzada
+Pas 1: Obre el Visor d'esdeveniments
+                <img src="Captura de pantalla 2024-10-10 110043.png" alt="Obrir el Visor d'esdeveniments"/>
             </li>
             <li>
                 <h3>Pas 2: Fes clic en Visions personalitzades i crea una nova vista personalitzada</h3>
